@@ -1,0 +1,6 @@
+{
+  "name": "Whisker Escape: The Golden Yarn Maze",
+  "description": "Guide a curious cat through three challenging mazes, collecting golden yarn balls to unlock the exit door.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
